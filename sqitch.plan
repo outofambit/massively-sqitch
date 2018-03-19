@@ -1,3 +1,6 @@
 %syntax-version=1.0.0
 %project=massively
 
+appschema 2018-03-19T19:50:33Z Evelyn Masso <evma@evma-c5-mbp.local> # Add schema for all objects.
+users [appschema] 2018-03-19T20:08:30Z Evelyn Masso <evma@evma-c5-mbp.local> # Creates table to track our users.
+user_states [users] 2018-03-19T20:24:00Z Evelyn Masso <evma@evma-c5-mbp.local> # Add column to track our users geographic states.
