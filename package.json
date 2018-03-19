@@ -1,0 +1,13 @@
+{
+  "name": "massively",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Evelyn Masso",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "db-migrate": "^0.10.5",
+    "db-migrate-pg": "^0.3.1",
+    "massive": "^4.7.0"
+  }
+}
